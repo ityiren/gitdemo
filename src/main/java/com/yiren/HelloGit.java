@@ -13,7 +13,7 @@ public class HelloGit {
         System.out.println("hello git 111111111");
         System.out.println("hello git 222222222");
         System.out.println("hello git 333333333");
-        System.out.println("hello git 444444444 hot-fix");
+        System.out.println("hello git 444444444 master");
 
 
     }
