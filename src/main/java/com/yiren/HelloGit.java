@@ -16,7 +16,8 @@ public class HelloGit {
         System.out.println("hello git 444444444 hot-fix");
         System.out.println("hello git 444444444 hot-fix");
         System.out.println("hello git 444444444 push-test");
-
+        System.out.println("hello git 444444444 pull-test");
+        
 
     }
 }
